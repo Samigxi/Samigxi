@@ -43,12 +43,6 @@
 
 ### 🏆 Featured Projects
 
-| Project | Description | Links |
-|----------|--------------|-------|
-| 🛒 **Online Bookstore** | Full-stack eCommerce website with PHP, MySQL, admin panel, and order management | [GitHub](#) |
-| 🔐 **Cloud Security Research** | Published paper on multi-tenant cloud environments & data privacy | [Read Paper](#) |
-
----
 
 ### 📊 GitHub Stats & Activity
 
@@ -63,7 +57,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samigxi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:samishaikh123456789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:samipersonalacco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://samigxi.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
