@@ -5,11 +5,11 @@
 
 ### 💫 About Me
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **MIT-WPU, Pune**  
-- 💡 Passionate about **Full-Stack Development**, **Cloud Security**, and **Hardware Optimization**  
-- ☁️ Exploring **Cloud Platforms**, **System Design**, and **Modern UI/UX**  
+- 💡 Passionate about **Full-Stack Development**, **Game development**,**Cybersecurity** and **Hardware Optimization**  
+- ☁️ Exploring **System Design** and **Modern UI/UX**  
 - 🧠 Love to learn, build, and optimize systems from architecture to hardware  
 - 💼 Actively seeking **Software Engineering internships** and **full-time opportunities**  
-- 📫 Reach me at **samishaikh123456789@gmail.com**
+- 📫 Reach me at **samipersonalacco@gmail.com**
 
 ---
 
